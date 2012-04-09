@@ -9,12 +9,16 @@ Pass the script a set of files like this:
 
 It will turn this:
 
-```1.pdf
+```bash
+1.pdf
 2.pdf
-3.pdf```
+3.pdf
+```
 
 into this:
 
-```1/1.pdf
+```bash
+1/1.pdf
 2/2.pdf
-3/3.pdf```
+3/3.pdf
+```
